@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sber AI Assistant//EN
+BEGIN:VEVENT
+UID:a35d5f76-edc9-415b-b1b5-a80a451a23b6@sber-ai-assistant
+DTSTAMP:20251119T223315Z
+DTSTART:20250520T100000
+DTEND:20250520T130000
+SUMMARY:🎯 Data Science Meetup от JetBrains
+DESCRIPTION:📝 Регулярный митап по Data Science от ведущей IT-компании\n\n👥 Участников: 150\n🎪 Тип: митап\n🏷️ Темы: Data Science\, машинное обучение\, аналитика\n🎤 Спикеры: Data Scientist из JetBrains\, Эксперты ML\n📋 Регистрация: Регистрация на meetup.com\n📊 Источник: community_event\n🔗 Сайт мероприятия: https://meetup.com\n\n---\n🤖 Добавлено AI-помощником Сбера\n📅 Сгенерировано: 19.11.2025 22:33
+LOCATION:Санкт-Петербург\, Офис JetBrains
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Data Science Meetup от JetBrains
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Скоро: Data Science Meetup от JetBrains
+END:VALARM
+END:VEVENT
+END:VCALENDAR

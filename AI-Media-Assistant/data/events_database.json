@@ -1,0 +1,445 @@
+{
+  "metadata": {
+    "last_updated": "2025-11-20T09:49:39.340623",
+    "total_events": 21,
+    "sources_used": [
+      "web_search",
+      "llm_search",
+      "sample_database",
+      "itmo",
+      "timepad"
+    ]
+  },
+  "events": [
+    {
+      "title": "Хакатон SpbTechRun 2024",
+      "date": "2024-11-30",
+      "end_date": "2024-12-01",
+      "location": "Санкт-Петербург, ЛЕНПОЛИГРАФМАШ",
+      "audience": 300,
+      "type": "хакатон",
+      "themes": [
+        "технологии",
+        "программирование",
+        "инновации"
+      ],
+      "speakers": [
+        "ИТ-эксперты",
+        "Промышленные специалисты"
+      ],
+      "description": "Крупнейший технологический хакатон для разработчиков и инженеров",
+      "registration_info": "Регистрация на сайте spbtechrun.ru",
+      "source": "partner_invitation",
+      "url": "https://spbtechrun.ru"
+    },
+    {
+      "title": "Круглый стол 'Цифровая трансформация бизнеса'",
+      "date": "2025-02-11",
+      "location": "Санкт-Петербург, Деловой Петербург",
+      "audience": 80,
+      "type": "круглый стол",
+      "themes": [
+        "цифровая трансформация",
+        "бизнес",
+        "IT"
+      ],
+      "speakers": [
+        "ТОП-менеджеры",
+        "IT-директора",
+        "Эксперты рынка"
+      ],
+      "description": "Обсуждение трендов цифровизации российского бизнеса",
+      "registration_info": "По приглашениям для руководителей",
+      "source": "partner_invitation",
+      "url": "https://www.dp.ru"
+    },
+    {
+      "title": "Women in Data Science 2025",
+      "date": "2025-03-07",
+      "location": "Санкт-Петербург, Отель Коринтия",
+      "audience": 250,
+      "type": "конференция",
+      "themes": [
+        "Data Science",
+        "AI",
+        "женщины в IT",
+        "машинное обучение"
+      ],
+      "speakers": [
+        "Лидеры ODS",
+        "Data Scientist из топ компаний"
+      ],
+      "description": "Крупнейшая конференция о женщинах в Data Science в России",
+      "registration_info": "Открытая регистрация на ods.ai",
+      "source": "community_event",
+      "url": "https://ods.ai"
+    },
+    {
+      "title": "Стратегическая сессия по развитию IT-кластера СПб",
+      "date": "2024-11-25",
+      "location": "Санкт-Петербург, Смольный",
+      "audience": 120,
+      "type": "стратегическая сессия",
+      "themes": [
+        "экономика",
+        "IT-развитие",
+        "цифровизация",
+        "инновации"
+      ],
+      "speakers": [
+        "вице-губернаторы Санкт-Петербурга",
+        "руководители IT-компаний"
+      ],
+      "description": "Стратегическая сессия по развитию IT-кластера Санкт-Петербурга",
+      "registration_info": "Для участников правительства и IT-компаний",
+      "source": "government_event",
+      "url": "https://gov.spb.ru"
+    },
+    {
+      "title": "AI Journey 2024",
+      "date": "2024-09-01",
+      "location": "Калининград",
+      "audience": 500,
+      "type": "конференция",
+      "themes": [
+        "искусственный интеллект",
+        "образование",
+        "нейросети"
+      ],
+      "speakers": [
+        "Эксперты Сбера",
+        "Преподаватели вузов",
+        "AI-специалисты"
+      ],
+      "description": "Международная конференция по искусственному интеллекту",
+      "registration_info": "Открытая регистрация на ai-journey.ru",
+      "source": "educational_event",
+      "url": "https://ai-journey.ru"
+    },
+    {
+      "title": "ИТМО TOP AI Conference",
+      "date": "2025-07-21",
+      "location": "Санкт-Петербург, Университет ИТМО",
+      "audience": 400,
+      "type": "конференция",
+      "themes": [
+        "AI",
+        "исследование",
+        "образование",
+        "инновации"
+      ],
+      "speakers": [
+        "Профессора ИТМО",
+        "Исследователи AI",
+        "Промышленные эксперты"
+      ],
+      "description": "Ежегодная конференция по искусственному интеллекту от ведущего IT-вуза",
+      "registration_info": "Регистрация на сайте itmo.ru",
+      "source": "university_event",
+      "url": "https://events.itmo.ru"
+    },
+    {
+      "title": "День Науки с СПб ФИЦ РАН",
+      "date": "2025-02-07",
+      "location": "Санкт-Петербург, СПб ФИЦ РАН",
+      "audience": 200,
+      "type": "научная конференция",
+      "themes": [
+        "наука",
+        "исследования",
+        "IT",
+        "инновации"
+      ],
+      "speakers": [
+        "Ученые РАН",
+        "Исследователи",
+        "Академики"
+      ],
+      "description": "Научная конференция с участием ведущих исследователей РАН",
+      "registration_info": "Для научных сотрудников и партнеров",
+      "source": "science_event",
+      "url": "https://spbrc.ru"
+    },
+    {
+      "title": "Петербургский международный образовательный форум",
+      "date": "2025-03-27",
+      "location": "Санкт-Петербург, Академия талантов",
+      "audience": 300,
+      "type": "форум",
+      "themes": [
+        "образование",
+        "IT-образование",
+        "цифровизация"
+      ],
+      "speakers": [
+        "Эксперты образования",
+        "IT-специалисты",
+        "Педагоги"
+      ],
+      "description": "Крупнейший образовательный форум Северо-Запада",
+      "registration_info": "Регистрация на сайте academy-talant.ru",
+      "source": "educational_event",
+      "url": "https://academy-talant.ru"
+    },
+    {
+      "title": "Startup Village 2025",
+      "date": "2025-06-15",
+      "location": "Санкт-Петербург, Сколково Парк",
+      "audience": 1000,
+      "type": "стартап-конференция",
+      "themes": [
+        "стартапы",
+        "венчурные инвестиции",
+        "IT",
+        "инновации"
+      ],
+      "speakers": [
+        "Инвесторы",
+        "Основатели стартапов",
+        "Эксперты"
+      ],
+      "description": "Крупнейшая стартап-конференция Северо-Запада",
+      "registration_info": "Открытая регистрация на startupvillage.ru",
+      "source": "startup_event",
+      "url": "https://startupvillage.ru"
+    },
+    {
+      "title": "CodeFest 2025",
+      "date": "2025-04-12",
+      "location": "Санкт-Петербург, Экспофорум",
+      "audience": 1500,
+      "type": "IT-конференция",
+      "themes": [
+        "программирование",
+        "разработка",
+        "DevOps",
+        "Cloud"
+      ],
+      "speakers": [
+        "Lead Developer из Яндекс",
+        "Architect из Сбера",
+        "Google Developer Expert"
+      ],
+      "description": "Одна из крупнейших IT-конференций для разработчиков",
+      "registration_info": "Билеты на codefest.ru",
+      "source": "it_conference",
+      "url": "https://codefest.ru"
+    },
+    {
+      "title": "Data Science Meetup от JetBrains",
+      "date": "2025-05-20",
+      "location": "Санкт-Петербург, Офис JetBrains",
+      "audience": 150,
+      "type": "митап",
+      "themes": [
+        "Data Science",
+        "машинное обучение",
+        "аналитика"
+      ],
+      "speakers": [
+        "Data Scientist из JetBrains",
+        "Эксперты ML"
+      ],
+      "description": "Регулярный митап по Data Science от ведущей IT-компании",
+      "registration_info": "Регистрация на meetup.com",
+      "source": "community_event",
+      "url": "https://meetup.com"
+    },
+    {
+      "title": "Кибербезопасность и AI",
+      "date": "2025-08-10",
+      "location": "Санкт-Петербург, СПбГУ",
+      "audience": 180,
+      "type": "семинар",
+      "themes": [
+        "кибербезопасность",
+        "AI",
+        "защита данных",
+        "ML"
+      ],
+      "speakers": [
+        "Профессора СПбГУ",
+        "Эксперты по безопасности"
+      ],
+      "description": "Семинар по применению AI в кибербезопасности",
+      "registration_info": "Для студентов и партнеров СПбГУ",
+      "source": "university_event",
+      "url": "https://spbu.ru"
+    },
+    {
+      "title": "IT Диалог 2025",
+      "date": "2025-11-05",
+      "location": "Санкт-Петербург, Таврический дворец",
+      "audience": 800,
+      "type": "форум",
+      "themes": [
+        "IT-индустрия",
+        "бизнес",
+        "государство",
+        "инновации"
+      ],
+      "speakers": [
+        "Министры",
+        "IT-директора",
+        "Эксперты"
+      ],
+      "description": "Ежегодный форум диалога IT-сообщества и государства",
+      "registration_info": "По приглашениям и регистрации",
+      "source": "government_event",
+      "url": "https://it-dialog.ru"
+    },
+    {
+      "title": "Frontend Conf 2025",
+      "date": "2025-09-18",
+      "location": "Санкт-Петербург, Лофт Проект ЭТАЖИ",
+      "audience": 400,
+      "type": "конференция",
+      "themes": [
+        "frontend",
+        "JavaScript",
+        "React",
+        "Vue",
+        "Web"
+      ],
+      "speakers": [
+        "Lead Frontend Developer",
+        "Google Developer Expert"
+      ],
+      "description": "Крупнейшая конференция по фронтенд-разработке в СПб",
+      "registration_info": "Билеты на frontendconf.ru",
+      "source": "it_conference",
+      "url": "https://frontendconf.ru"
+    },
+    {
+      "title": "AI Research Day в СПбПУ",
+      "date": "2025-10-15",
+      "location": "Санкт-Петербург, СПбПУ",
+      "audience": 120,
+      "type": "научный семинар",
+      "themes": [
+        "AI исследования",
+        "нейросети",
+        "машинное обучение"
+      ],
+      "speakers": [
+        "Профессора СПбПУ",
+        "Исследователи AI"
+      ],
+      "description": "Научный семинар по последним исследованиям в области AI",
+      "registration_info": "Для научного сообщества",
+      "source": "university_event",
+      "url": "https://spbstu.ru"
+    },
+    {
+      "title": "День открытых дверей магистратуры ИТМО",
+      "date": "2025-04-10",
+      "location": "Санкт-Петербург, Университет ИТМО",
+      "audience": 200,
+      "type": "образовательное мероприятие",
+      "themes": [
+        "образование",
+        "магистратура",
+        "IT"
+      ],
+      "speakers": [
+        "Преподаватели ИТМО",
+        "Студенты"
+      ],
+      "description": "День открытых дверей магистерских программ Университета ИТМО",
+      "registration_info": "Регистрация на сайте itmo.ru",
+      "source": "itmo_parsed",
+      "url": "https://itmo.ru"
+    },
+    {
+      "title": "Data Science Hackathon",
+      "date": "2025-05-20",
+      "location": "Санкт-Петербург, Офис Яндекс",
+      "audience": 120,
+      "type": "хакатон",
+      "themes": [
+        "Data Science",
+        "ML",
+        "аналитика"
+      ],
+      "speakers": [
+        "Эксперты Data Science"
+      ],
+      "description": "Хакатон по Data Science с реальными кейсами",
+      "registration_info": "Регистрация на TimePad",
+      "source": "timepad_parsed",
+      "url": "https://timepad.ru"
+    },
+    {
+      "title": "Social Media Creators & Influencers Meetup (virtual) #52",
+      "source": "Meetup.com_search",
+      "description": "Найдено на Meetup.com по запросу: IT мероприятия Санкт-Петербург 2024",
+      "date": "2025-12-14",
+      "location": "Санкт-Петербург",
+      "type": "митап",
+      "audience": 51,
+      "themes": [
+        "IT мероприятия Санкт-Петербург 2024"
+      ],
+      "speakers": [
+        "Организаторы мероприятия"
+      ],
+      "registration_info": "Регистрация на Meetup.com",
+      "url": "#"
+    },
+    {
+      "title": "ITMO/EVENTS – Мероприятия Университета ИТМО - ИТМО",
+      "source": "ИТМО_parsed",
+      "description": "Мероприятие в ИТМО",
+      "date": "2026-05-18",
+      "location": "Санкт-Петербург, ИТМО",
+      "type": "образовательное мероприятие",
+      "audience": 93,
+      "themes": [
+        "образование",
+        "наука",
+        "IT"
+      ],
+      "speakers": [
+        "Преподаватели ИТМО"
+      ],
+      "registration_info": "Регистрация на сайте университета",
+      "url": "#"
+    },
+    {
+      "title": "*,::backdrop,:after,:before{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw - ИТМО",
+      "source": "ИТМО_parsed",
+      "description": "Мероприятие в ИТМО",
+      "date": "2026-01-16",
+      "location": "Санкт-Петербург, ИТМО",
+      "type": "образовательное мероприятие",
+      "audience": 114,
+      "themes": [
+        "образование",
+        "наука",
+        "IT"
+      ],
+      "speakers": [
+        "Преподаватели ИТМО"
+      ],
+      "registration_info": "Регистрация на сайте университета",
+      "url": "#"
+    },
+    {
+      "title": "From Batch to Real-Time: The Business Case for Event Streaming",
+      "source": "Meetup.com_search",
+      "description": "Найдено на Meetup.com по запросу: митапы программирование Санкт-Петербург",
+      "date": "2026-03-08",
+      "location": "Санкт-Петербург",
+      "type": "мероприятие",
+      "audience": 168,
+      "themes": [
+        "митапы программирование Санкт-Петербург"
+      ],
+      "speakers": [
+        "Организаторы мероприятия"
+      ],
+      "registration_info": "Регистрация на Meetup.com",
+      "url": "#"
+    }
+  ]
+}
