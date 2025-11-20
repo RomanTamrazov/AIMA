@@ -1,0 +1,11 @@
+partner_name,event_title,date,expected_audience,partner_type,priority,status,contact_person,contact_email,notes
+Деловой Петербург,Круглый стол по цифровой трансформации,2025-02-11,80,media,high,approved,Иван Петров,ipetrov@dp.ru,Стратегический партнер
+OpenData Science,Women in Data Science 2025,2025-03-07,250,community,high,approved,Мария Сидорова,msidorova@ods.ai,Ключевое сообщество
+Университет ИТМО,AI Research Day,2025-03-15,150,university,medium,pending,Алексей Козлов,akozlov@itmo.ru,Вузовский партнер
+СПбГУ,Семинар по кибербезопасности,2025-08-10,180,university,medium,approved,Ольга Николаева,onikolaeva@spbu.ru,Академическое сотрудничество
+Яндекс,Data Science Hackathon,2025-05-20,120,company,high,approved,Дмитрий Иванов,divanov@yandex.ru,Технологический партнер
+JetBrains,Data Science Meetup,2025-05-20,150,company,medium,pending,Сергей Кузнецов,skuznetsov@jetbrains.com,Сообщество разработчиков
+СПбПУ,AI Research Day,2025-10-15,120,university,medium,pending,Елена Смирнова,esmirnova@spbstu.ru,Научное мероприятие
+Правительство СПб,Стратегическая сессия по IT,2024-11-25,120,government,high,approved,Андрей Васильев,avasilev@gov.spb.ru,Государственный партнер
+Сколково,Startup Village 2025,2025-06-15,1000,innovation_center,high,approved,Наталья Орлова,norlova@sk.ru,Инновационная площадка
+АСИ,Открытие Клуба продюсеров,2025-05-22,200,government,medium,pending,Павел Розов,prosov@asi.ru,Образовательная инициатива
