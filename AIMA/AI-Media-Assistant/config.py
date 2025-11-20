@@ -112,6 +112,6 @@ def get_current_date():
     return datetime.now().strftime("%Y-%m-%d")
 
 BOT_CONFIG = {
-    "token": "8456658338:AAElzl0CF5iyRiF-n_5HvFYsvBvV-IIiRAg",  # Замените на реальный токен
-    "admin_id": "5233739541"  # Замените на ваш Telegram ID
+    "token": "",  #токен
+    "admin_id": ""#Telegram ID
 }
