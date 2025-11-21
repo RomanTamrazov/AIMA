@@ -1,0 +1,75 @@
+{
+  "profiles": {
+    "5233739541": {
+      "role": "admin",
+      "preferences": {
+        "location_preference": null,
+        "audience_preference": null,
+        "participation_role": null,
+        "interests": []
+      },
+      "setup_completed": true,
+      "fio": "Тамразов Роман Каренович",
+      "position": "администратор",
+      "registration_date": "2025-11-21T22:06:40.421695"
+    },
+    "5287426150": {
+      "role": "employee",
+      "preferences": {
+        "location_preference": "🌐 Онлайн",
+        "audience_preference": "👥 Любого размера",
+        "participation_role": "👥 Участник",
+        "interests": []
+      },
+      "setup_completed": true,
+      "fio": "Саргсян Артём Нельсонович",
+      "position": "Стажёр",
+      "registration_date": "2025-11-21T22:21:06.183638"
+    },
+    "1809256930": {
+      "role": "manager",
+      "preferences": {
+        "location_preference": "🌐 Онлайн",
+        "audience_preference": "👥 Любого размера",
+        "participation_role": "👥 Участник",
+        "interests": []
+      },
+      "setup_completed": true,
+      "fio": "Кугушев Динар Ильдарович",
+      "position": "Руководитель",
+      "registration_date": "2025-11-21T22:21:14.461414"
+    }
+  },
+  "auth": {
+    "5233739541": {
+      "status": "authenticated",
+      "role": "admin",
+      "registration_date": "2025-11-21T22:06:40.421712"
+    },
+    "5287426150": {
+      "status": "authenticated",
+      "role": "employee",
+      "registration_date": "2025-11-21T22:21:06.183649"
+    },
+    "1809256930": {
+      "status": "authenticated",
+      "role": "manager",
+      "registration_date": "2025-11-21T22:21:14.461427"
+    }
+  },
+  "managers": {
+    "1809256930": {
+      "fio": "Кугушев Динар Ильдарович",
+      "position": "Руководитель",
+      "registration_date": "2025-11-21T22:21:14.462519"
+    }
+  },
+  "user_managers": {
+    "5287426150": "1809256930"
+  },
+  "manager_employees": {
+    "1809256930": [
+      "5287426150"
+    ]
+  }
+}
