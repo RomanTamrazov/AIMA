@@ -112,7 +112,7 @@ def get_current_date():
     return datetime.now().strftime("%Y-%m-%d")
 
 BOT_CONFIG = {
-    "token": "8456658338:AAElzl0CF5iyRiF-n_5HvFYsvBvV-IIiRAg", # Токен бота
+    "token": "", # Токен бота
     "admin_password": "admin123",  # Пароль для администраторов
     "manager_password": "manager123"  # Пароль для руководителей
 }
